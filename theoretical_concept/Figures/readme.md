@@ -1,1 +1,1 @@
-This folder contains the figures used in the paper **"Ukrainian Legitimacy Equation: from Primary Target in Hybrid War to Prerequisite of Good Governance"**. The original paper is to be published early next year.
+This folder contains the figures used in the paper [**"Ukrainian Legitimacy Equation: from Primary Target in Hybrid War to Prerequisite of Good Governance"**](https://www.igi-global.com/chapter/ukrainian-legitimacy-equation/250142).
